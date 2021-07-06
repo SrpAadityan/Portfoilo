@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+SRP Aadityan Portfolio
+URL: https://srpaadityan.github.io/Portfoilo/
+Author: Ram Pratik Aadityan S
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
